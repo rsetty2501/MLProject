@@ -1,0 +1,43 @@
+
+                     TROPHY
+                     
+          http://trophy.sourceforge.net
+
+       Programming, Graphics and Sounds by 
+       
+                 Andrew Mustun
+		 Matthieu Lecesne
+		 Colin Pitrat
+                 
+               andrew@mustun.com
+	       matthieulecesne@yahoo.fr
+	       colin.pitrat@gmail.com
+               
+               
+               
+TROPHY is a car racing game with some special features
+like shooting and dropping bombs.
+
+Requirements
+------------
+
+TROPHY requires ClanLib 0.8 or 1.0 to run.
+
+You can get ClanLib from www.clanlib.org
+
+Hardware:
+You need a lot of video memory to run TROPHY. However,
+it should run anyway but the quality might suffer if
+your hardware isn't good enough.
+
+
+Installation
+------------
+
+To install TROPHY simply extract it to any directory you
+prefer.
+On Unix-like systems just run those commands:
+./configure
+make
+make install
+
